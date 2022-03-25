@@ -7,8 +7,6 @@ import interfaces.APurchase;
 import Service.ReceiptService;
 
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.util.*;
 
 public class Runner {
